@@ -1,0 +1,11 @@
+Listen up, my friend! I've got a script that's gonna blow your mind. This bad boy uses a linear regression model to predict salaries. We're talking big bucks here!
+
+We've got data on the salaries of a thousand employees. Yeah, you heard me right. A thousand! We're diving deep into the world of numbers to analyze this dataset and unleash the power of linear regression.
+
+Now, linear regression ain't some fancy jargon. It's a mathematical model that helps us find patterns and relationships between variables. In this case, we're looking at how different factors impact an employee's salary.
+
+With this script, we'll crunch the numbers, analyze the data, and build a powerful regression model. We'll train it on the salary data of those thousand employees, teaching it to predict salaries like a true champ.
+
+Once this model is trained, it's gonna become a salary-predicting machine. You feed it some input values like years of experience, education level, or any other relevant factors, and bam! It spits out a predicted salary like a knockout punch!
+
+Think about the possibilities, my friend. You can use this script to make informed decisions, negotiate better salaries, or just satisfy your curiosity about what the future holds.
